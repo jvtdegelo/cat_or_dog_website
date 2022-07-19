@@ -1,0 +1,14 @@
+.navbar{
+  background: transparent;
+  box-shadow: none;
+  height:100px;
+}
+
+.nav-link{
+  color: black !important;
+}
+
+.navbar-brand{
+  color: black !important;
+}
+
